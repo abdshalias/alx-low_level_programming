@@ -8,10 +8,10 @@ int main(void)
 {
        /* Define data types */
 	char char_Data;
-      	int int_Data;
-        long longInt_Data;
-        long long longlongInt _Data;
-         float float_Data;
+	int int_Data;
+	long longInt_Data;
+	long long longlongInt _Data;
+	float float_Data;
 
 	/*Evaluate datasizes, and print to screen*/
 	printf("Size of a char: %u byte(s)\n", sizeof(char));
